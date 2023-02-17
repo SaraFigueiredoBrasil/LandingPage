@@ -6,3 +6,5 @@ Apresento a vocês o projeto **"FooD PeeK"**. Ele é uma página de apresenção
 
 ![ImagemProjeto](https://user-images.githubusercontent.com/60072940/219816780-ab4f8bd1-1962-4835-843b-d50d5013397d.png)
 
+<p>Créditos: <a href="https://github.com/DevEnvolvente0190">DevEnvolvente</a> 
+
